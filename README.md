@@ -12,16 +12,16 @@ This project is a Food Ordering Website that allows users to browse food options
 
 ## Screenshots
 1. **Home Page**  
-   ![Home Page](link_to_home_page_screenshot)
+    ![Home Page] (https://ibb.co/xJRP06n)
 
 2. **Login Page**  
-   ![Login Page](link_to_login_page_screenshot)
+   ![Login Page] https://ibb.co/41dKv1x
 
 3. **Registration Page**  
-   ![Registration Page](link_to_registration_page_screenshot)
+   ![Registration Page] (https://ibb.co/NLy1xcQ)
 
 4. **Order Page**  
-   ![Order Page](link_to_order_page_screenshot)
+   ![Order Page]  (https://ibb.co/3YBdnj9)
 
 ## Tools and Technologies
 - **Languages:** PHP, HTML, CSS
